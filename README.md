@@ -14,7 +14,7 @@ The Transformer is then tested on a simple seq2seq task: translating sentences f
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/transformer-from-scratch.git
+   git clone https://github.com/PadalaBalaSivaSaiMegiReddy/Language_translation_using_Transformer_from_scratch.git
 
 2. Install the required packages:
 
